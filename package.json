@@ -1,0 +1,17 @@
+{
+  "name": "node-graphql-apollo-dojo",
+  "version": "1.0.0",
+  "description": "dojo two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Giraldo",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.7.0",
+    "apollo-server": "^2.10.1",
+    "graphql": "^14.6.0",
+    "mongoose": "^5.9.2"
+  }
+}
